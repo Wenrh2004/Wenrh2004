@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wenrh2004&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenrh2004" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KingYen." align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KingYen" align="center" />
 </div>  
 
 <br />
